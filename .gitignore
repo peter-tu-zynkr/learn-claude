@@ -1,0 +1,10 @@
+# Secrets and credentials
+gcp-oauth.keys.json
+*.keys.json
+*.credentials.json
+
+# MCP config (may contain API keys)
+.mcp.json
+
+# OS files
+.DS_Store
